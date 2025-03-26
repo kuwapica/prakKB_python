@@ -1,7 +1,7 @@
 import json
 import datetime
 
-# File tempat menyimpan data mahasiwa
+# File tempat menyimpan data barang
 FILE_NAME = "stokBarang.json"
 
 # Fungsi untuk membaca data dari file
@@ -17,7 +17,7 @@ def simpan_data(data):
     with open(FILE_NAME, "w") as file:
         json.dump(data, file, indent=4)
 
-# Fungsi untuk menambahkan buku
+# Fungsi untuk menambahkan barang
 def tambah_barang(data):
     barang = input("Masukkan nama barang: ")
     harga = float(input("Masukkan harga satuan barang: "))
