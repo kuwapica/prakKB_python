@@ -16,9 +16,9 @@ Data barang akan disimpan dalam file JSON (stokBarang.JSON)
 ## Cara Menggunakan
 1. Jalankan program di visual studio code atau kode editor manapun yang terdapat bahasa python.
 2. Akan muncul 4 menu, pilih menu yang tersedia:
-   - ketik '1' untuk menambah daftar barang. 
-   - ketik '2' untuk melihat daftar barang yang sudah ditambahkan.
-   - ketik '3' untuk menghapus barang barang.
-   - ketik '4' untuk keluar dari program.
+   - ketik `1` untuk menambah daftar barang. 
+   - ketik `2` untuk melihat daftar barang yang sudah ditambahkan.
+   - ketik `3` untuk menghapus barang barang.
+   - ketik `4` untuk keluar dari program.
 3. Masukkan data sesuai dengan instruksi yang ada di terminal.
 4. Program akan memperbarui file stokBarang.JSON secara otomatis setiap ada perubahan data. 
