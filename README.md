@@ -4,14 +4,14 @@
 Program ini adalah program python sederhana yang mengimplementasikan struktur data yaitu penggunaan list, struktur kontrol penggunaan percabangan dan perulangan, dan library dengan menggunakan standard library yaitu library json dan datetime. Program ini memungkinkan pengguna untuk menambah, melihat, dan menghapus barang yang tersimpan dalam file JSON. Program ini dibuat untuk memenuhi tugas praktikum kecerdasan buatan.
 
 ## Fitur
-**1. Menambah barang**
-Pengguna dapat menambah barang, harga, dan juga stok. Barang yang ditambah akan disimpan dalam file JSON (stokBarang.JSON)
-**2. Melihat barang**
-Pengguna dapat melihat daftar barang, harga, stok, dan total harga barang yang sudah ditambahkan.
-**3. Menghapus barang**
-Pengguna dapat mengahapus barang yang diinginkan dengan mengetik nama barang yang ingin dihapus.
-**4. Penyimpanan file**
-Data barang akan disimpan dalam file JSON (stokBarang.JSON)
+**1. Menambah barang**  
+Pengguna dapat menambah barang, harga, dan juga stok. Barang yang ditambah akan disimpan dalam file JSON (stokBarang.JSON)  
+**2. Melihat barang**  
+Pengguna dapat melihat daftar barang, harga, stok, dan total harga barang yang sudah ditambahkan.  
+**3. Menghapus barang**  
+Pengguna dapat mengahapus barang yang diinginkan dengan mengetik nama barang yang ingin dihapus.  
+**4. Penyimpanan file**  
+Data barang akan disimpan dalam file JSON (stokBarang.JSON)  
 
 ## Cara Menggunakan
 1. Jalankan program di visual studio code atau kode editor manapun yang terdapat bahasa python.
